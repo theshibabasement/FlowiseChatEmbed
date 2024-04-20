@@ -44,7 +44,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Powered by
+      Criado por
       <a
         ref={liteBadge}
         href={'https://limemarketing.com.br'}
